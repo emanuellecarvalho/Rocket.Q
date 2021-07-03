@@ -5,9 +5,6 @@
 <img alt="Site Rocket.Q" src="https://media.giphy.com/media/x1tJJDgDb5ZgoXzW0M/giphy.gif"> 
 </p>
 
-![Rocket.Q pages](https://media.giphy.com/media/x1tJJDgDb5ZgoXzW0M/giphy.gif)
-
-
 ## Projeto:
 
 Aplicação de interação através de perguntas, onde é possível criar uma sala para perguntas anônimas e o criador da sala consegue marcar as perguntas como lidas e/ou excluí-las. 
