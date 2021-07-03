@@ -5,9 +5,9 @@
 
 ## Projeto:
 
-### Aplicação de interação através de perguntas, onde é possível criar uma sala para perguntas anônimas e o criador da sala consegue marcar as perguntas como lidas e/ou excluí-las. 
+# Aplicação de interação através de perguntas, onde é possível criar uma sala para perguntas anônimas e o criador da sala consegue marcar as perguntas como lidas e/ou excluí-las. 
 
-### Projeto desenvolvido durante o NLW 06 - Missão Discover da RocketSeat.
+# Projeto desenvolvido durante o NLW 06 - Missão Discover da RocketSeat.
 
 
 ## Tecnologias:
