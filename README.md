@@ -1,6 +1,5 @@
 ## Rocket.Q
 
-<h4>Apresentação da aplicação</h4>
 <p align="center">
 <img alt="Site Rocket.Q" src="https://media.giphy.com/media/x1tJJDgDb5ZgoXzW0M/giphy.gif" width:"100%"> 
 </p>
